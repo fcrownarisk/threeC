@@ -1,2 +1,4 @@
 # threeC
-one + one = two fermat four color written in pure C language 
+one + one = two    fermat    four color (three conjuecture solved in linear algebra)  written in pure C language 
+# Using Jetbrain's product Clion 
+no Red error version detected
