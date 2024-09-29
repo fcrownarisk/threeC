@@ -1,5 +1,5 @@
-#include "fourcolor/color.h"
-
+#include "color/color.h"
+#include "color/fourcolor
 void CylinderXY(){
     const element1 =
         [[0][1][0][1],
