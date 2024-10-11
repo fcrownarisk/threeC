@@ -1,29 +1,29 @@
-#include "det1234"
-#include "det5678"
-#include "det9101112"
-#include "one"
-#include "oppoone"
-#include "pyramid"
-#include "square"
-#include "antisquare"
-#include "antipyramid"
-#include "tri"
-#include "antitri"
-void Constance(){
-const DET = "det1234"+"det5678"+"det9101112";
+#include "det1234.c"
+#include "det5678.c"
+#include "det9101112.c"
+#include "one.c"
+#include "oppoone.c"
+#include "pyramid.c"
+#include "square.c"
+#include "antisquare.c"
+#include "antipyramid.c"
+#include "tri.c"
+#include "antitri.c"
+void constance(){
+const DET = "det1234 + det5678 + det9101112";
 const tri = "tri - antitri";
-const ONE = "one" + "oppoone";
+const ONE = "one + oppoone";
 const Square = "square * antisquare";
-const Pyramid = "pyramid % antipyramid";
 const DETtri = "DET * tri";
-const triDET = "tri % DET";
+const triDET = "tri / DET";
 const ONEsquare = "ONE * square";
-const squareONE = "square % ONE";
+const squareONE = "square / ONE";
+const Pyramid = "pyramid / antipyramid";
 const oppoPyramid = "antipyramid / pyramid";
-const dimPyramid = "square - antisquare";
+const dimPyramid = "pyramid - antipyramid";
 }
-void SUM(){
-    void ["DET/tri+ tri/DET"===DETtri + triDET]
-    void [DETtri+ONEsquare===squareONE+triDET]
-    void [Pyramid === oppoPyramid+dimPyramid]
-}
+void SUM(){ 
+    ["DET/tri + tri/DET"=="DETtri + triDET"]
+    ["DETtri + ONEsquare"=="squareONE + triDET"]
+    ["Pyramid" = "oppoPyramid+dimPyramid"]
+;}
