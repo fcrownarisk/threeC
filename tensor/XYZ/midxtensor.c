@@ -53,4 +53,5 @@ void  midtensor(){
          {0,9,9,0},
          {9,0,0,9}}
 ;
+return 0;
 }

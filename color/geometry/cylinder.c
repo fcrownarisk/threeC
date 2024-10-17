@@ -126,4 +126,3 @@ void Cylinder(){
     const CylinderXYZ = "Cylinder.X + Cylinder.Y + Cylinder.Z";
     return 0;
 }
-

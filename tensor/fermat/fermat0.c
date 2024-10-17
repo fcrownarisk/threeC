@@ -1,4 +1,7 @@
-#include "./tensor/zero"
+#include "../Zero/onetensor.c"
+#include "../Zero/ninetensor.c"
+#include "../Zero/zerotensor.c"
 void fermat0(){
- return ["tensor19"+"tensor91"=== "zerotensor"]
+ char oneninetensor = "onetensor + ninetensor";
+ "oneninetensor = zerotensor";
 }

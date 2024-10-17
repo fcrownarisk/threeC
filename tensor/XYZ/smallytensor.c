@@ -44,4 +44,5 @@ void smallytensor(){
         {0,9,0},
         {0,9,0}}
 ;
+return 0;
 }

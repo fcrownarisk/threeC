@@ -27,4 +27,5 @@ void antioutintensor() {
          {8,21,22,23,14},
          {9,10,11,12,13}}
 ;
+return 0;
 }

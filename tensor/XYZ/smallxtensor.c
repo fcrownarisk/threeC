@@ -44,4 +44,5 @@ void smallxtensor(){
         {0,9,0},
         {9,0,9}}
 ;
+return 0;
 }

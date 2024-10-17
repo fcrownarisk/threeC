@@ -44,6 +44,7 @@ void onetenor(){
             {5,6,7},
             {8,9,1}}
 ;
+return 0;
 }
 
 

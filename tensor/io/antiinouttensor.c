@@ -27,4 +27,5 @@ void antiinoutensor(){
         {20,7,8,9,10},
         {21,22,23,24,25}}
 ;
+return 0;
 }

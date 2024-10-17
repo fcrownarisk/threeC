@@ -1,4 +1,9 @@
-#include "./tensor/NNN"
+
+#include "../NNN/Ntensor.c"
+#include "../NNN/NNtensor.c"
+#include "../NNN/NNNtensor.c"
+#include "../NNN/Nulltensor.c"
 void fermat2(){
-    return ["Nulltensor" === "Ntensor"+"NNtensor"+"NNNtensor"]
-}
+    char NNNNtensor= "Ntensor + NNtensor + NNNtensor";
+    "NNNNtensor = Nulltensor" 
+;}
