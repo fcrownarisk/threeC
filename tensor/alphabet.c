@@ -27,5 +27,10 @@
 #define#define
 void Alphabet(){
   char a = 'A' ,b = 'B',c = 'C',d = 'D',
-  
-}
+       e = 'E' ,f = 'F',g = 'F',h = 'H',
+       i = 'i' ,j = 'J',k = 'K',l = 'L',
+       m = 'M' ,n = 'N',o = 'o',p = 'P',
+       r = 'R' ,s = 'S',t = 'T',
+       u = 'U' ,v = 'V',w = 'W',
+       x = 'X' ,y = 'Y',z = 'Z'
+;}
