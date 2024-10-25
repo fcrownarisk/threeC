@@ -24,7 +24,6 @@
 #define x 23
 #define y 24
 #define z 25
-#define#define
 void Alphabet(){
   char a = 'A' ,b = 'B',c = 'C',d = 'D',
        e = 'E' ,f = 'F',g = 'F',h = 'H',
