@@ -1,4 +1,4 @@
-void onetensor(){
+void ninetensor(){
     int ninetensor1[3][3] =
          {{9,8,7},
           {6,5,4},
@@ -50,4 +50,5 @@ void onetensor(){
           {4,3,2}}
 ;
 return 0;    
+
 }
